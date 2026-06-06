@@ -1,0 +1,7 @@
+[package]
+name = "ternary-pheromone-market"
+version = "0.1.0"
+edition = "2021"
+description = "Autonomous GPU load balancing via ternary pheromone markets. Agents emit demand/supply pheromones, gossip via CRDT, and use ternary strategy nets to decide work migration. No central scheduler — load balancing is emergent."
+license = "Apache-2.0"
+repository = "https://github.com/SuperInstance/ternary-pheromone-market"
